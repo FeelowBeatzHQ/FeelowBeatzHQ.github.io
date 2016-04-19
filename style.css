@@ -82,11 +82,3 @@ footer {
   display: block
 }
 
-#background {
-	background-image: url("./images/background.jpg");
-	background-position: fixed;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	font-family: arial;
-	background-size: 100%;
-} 
