@@ -1,5 +1,5 @@
 body {
-	background-image: url("./FeelowBeatzHQ.github.io/images/background.jpg");
+	background-image: url("./images/background.jpg");
 	background-position: fixed;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -15,7 +15,7 @@ body {
 }
 
 header { 
-	background-image: url("./FeelowBeatzHQ.github.io/images/HQ.png");
+	background-image: url("./images/HQ.png");
 	background-position: relative;
 	background-repeat: no-repeat;
 	padding: 100px;
@@ -24,6 +24,7 @@ header {
 	background-size: 100%;
 	background-height: 10%
 }
+
 header h1 {
 	text-align: center;
 	margin-right: 10px; 
@@ -82,3 +83,11 @@ footer {
   display: block
 }
 
+#background {
+	background-image: url("./images/background.jpg");
+	background-position: fixed;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: arial;
+	background-size: 100%;
+}
