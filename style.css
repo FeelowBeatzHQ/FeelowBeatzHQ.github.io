@@ -18,10 +18,10 @@ header {
 	background-image: url("./images/HQ.png");
 	background-position: relative;
 	background-repeat: no-repeat;
-	padding: 100px;
+	padding: 150px;
 	font-family: arial;
 	padding-top: 10px;
-	background-size: 150%;
+	background-size: 100%;
 	background-height: 10%
 }
 
