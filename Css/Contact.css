@@ -1,5 +1,5 @@
 body {
-	background-image: url("./images/background.jpg");
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/10/23/12/18/lightning-1002893_960_720.jpg");
 	background-position: fixed;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -14,13 +14,13 @@ body {
 	margin: 0 auto;
 }
 
-header { 
-	background-image: url("./images/HQ.png");
+header {
 	background-position: relative;
 	background-repeat: no-repeat;
-	padding: 100px;
+	text-align: center;
+	padding: 150px;
 	font-family: arial;
-	padding-top: 10px;
+	padding-top: 50px;
 	background-size: 100%;
 	background-height: 10%
 }
@@ -55,11 +55,6 @@ li a:hover {
 	font-weight: bold;
 }
 
-main {
- 
-
-  
-}
 section {
 	width: 40%;
   height: 50;
@@ -73,8 +68,9 @@ aside {
 	float: right;
 }
 footer {
-	text-align: center;
-	background-color: green;
+	color: white;
+	text-align: right;
+	background-color: gray;
 	padding: 10px;
 }
 .name{
@@ -83,10 +79,11 @@ footer {
 }
 
 #background {
-	background-image: url("./images/background.jpg");
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/10/23/12/18/lightning-1002893_960_720.jpg");
 	background-position: fixed;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: arial;
 	background-size: 100%;
 }
+div{color: white;}
