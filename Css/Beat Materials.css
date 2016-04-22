@@ -13,6 +13,7 @@ body {
 .container {
 	width: 80%;
 	margin: 0 auto;
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/10/23/12/18/lightning-1002893_960_720.jpg");
 }
 
 header {
